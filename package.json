@@ -2,11 +2,13 @@
   "name": "workflows",
   "version": "0.0.1",
   "description": "Learning web project workflows",
-  
-  
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Gustavus Wyche"
+  "author": "Gustavus Wyche",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
