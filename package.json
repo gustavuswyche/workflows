@@ -4,11 +4,12 @@
   "description": "Learning web project workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/gustavuswyche/workflows.git"
   },
   "author": "Gustavus Wyche",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
     "gulp-util": "^3.0.8"
   }
 }
